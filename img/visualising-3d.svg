@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="65" viewBox="0 0 72 65">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M1 45.752l34.928 17.61 34.929-17.61-34.929-17.61z"/>
+        <path stroke="#10A3E0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35.928 63.362L1 45.751l34.928-17.61 34.929 17.61z"/>
+        <path fill="#FFF" d="M1 31.898l34.928 17.611 34.929-17.611-34.929-17.61z"/>
+        <path stroke="#10A3E0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35.928 49.508L1 31.897l34.928-17.61 34.929 17.61z"/>
+        <path fill="#FFF" d="M1 19.342l34.928 17.612 34.929-17.612-34.929-17.61z"/>
+        <path stroke="#10A3E0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35.928 36.954L1 19.342l34.928-17.61 34.929 17.61z"/>
+        <path fill="#FFF" d="M46.607 17.638c0 3.427-4.781 6.204-10.68 6.204-5.896 0-10.677-2.777-10.677-6.204 0-3.427 4.78-6.205 10.677-6.205 5.899 0 10.68 2.778 10.68 6.205"/>
+        <path stroke="#10A3E0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M46.607 17.638c0 3.427-4.781 6.204-10.68 6.204-5.896 0-10.677-2.777-10.677-6.204 0-3.427 4.78-6.205 10.677-6.205 5.899 0 10.68 2.778 10.68 6.205z"/>
+        <path fill="#FFF" d="M46.607 12.442c0 3.428-4.781 6.205-10.68 6.205-5.896 0-10.677-2.777-10.677-6.205 0-3.427 4.78-6.204 10.677-6.204 5.899 0 10.68 2.777 10.68 6.204"/>
+        <path stroke="#10A3E0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M46.607 12.442c0 3.428-4.781 6.205-10.68 6.205-5.896 0-10.677-2.777-10.677-6.205 0-3.427 4.78-6.204 10.677-6.204 5.899 0 10.68 2.777 10.68 6.204z"/>
+        <path fill="#FFF" d="M46.607 12.442v5.772"/>
+        <path stroke="#10A3E0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M46.607 12.442v5.772"/>
+        <path fill="#FFF" d="M25.398 18.647v-6.582"/>
+        <path stroke="#10A3E0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M25.398 18.647v-6.582"/>
+        <path stroke="#10A3E0" stroke-width="2" d="M28.398 8.109l7.614 3.931 7.848-3.454"/>
+    </g>
+</svg>

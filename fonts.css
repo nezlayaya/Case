@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'ApexNew-Bold';
+    src: url('fonts/ApexNew-Bold/ApexNew-Bold.eot') format('embedded-opentype'),
+         url('fonts/ApexNew-Bold/ApexNew-Bold.woff') format('woff'),
+         url('fonts/ApexNew-Bold/ApexNew-Bold.ttf') format('truetype'),
+         url('fonts/ApexNew-Bold/ApexNew-Bold.svg#ApexNew-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ApexNew-Medium';
+    src: url('fonts/ApexNew-Medium/ApexNew-Medium.eot') format('embedded-opentype'),
+         url('fonts/ApexNew-Medium/ApexNew-Medium.woff') format('woff'),
+         url('fonts/ApexNew-Medium/ApexNew-Medium.ttf') format('truetype'),
+         url('fonts/ApexNew-Medium/ApexNew-Medium.svg#ApexNew-Medium') format('svg');;
+    font-weight: normal;
+    font-style: normal;
+}
